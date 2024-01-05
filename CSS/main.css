@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.image {
+    height: 250px;
+    background-color: aquamarine;
+}
+
+.news-container {
+    border: 5px solid red;
+}
+
+.advertisement-2 {
+    min-width: 70px;
+    min-height: 700px;
+    background-color: blanchedalmond;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.advertisement-1 {
+    min-width: 70px;
+    min-height: 700px;
+    background-color: blanchedalmond;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.just-line {
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+.restadv {
+    min-width: 70px;
+    min-height: 670px;
+}
